@@ -36,7 +36,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     ArrayList<HashMap<String, String>> arraylist = new ArrayList<HashMap<String, String>>();
     SimpleAdapter adapter;
 
-
+    String TAG = "WifiScanToolLog";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -67,9 +67,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
             requestPermissions(new String[]{Manifest.permission.ACCESS_COARSE_LOCATION, Manifest.permission.ACCESS_FINE_LOCATION},
                     0x12345);
             //After this point you wait for callback in onRequestPermissionsResult(int, String[], int[]) overriden method
-            Log.d("Lisa", "request permission");
+            Log.d(TAG, "request permission");
         } else {
-            Log.d("Lisa", "permission already granted");
+            Log.d(TAG, "permission already granted");
         }
     }
 
@@ -80,17 +80,15 @@ public class MainActivity extends Activity implements View.OnClickListener {
             if (intent.getAction().equals(WifiManager.SCAN_RESULTS_AVAILABLE_ACTION)) {
                 //List<ScanResult> mScanResults = wifi.getScanResults();
                 // clean list
-                Log.d("Lisa", "== clear list ==");
                 arraylist.clear();
                 size = 0;
 
                 results = wifi.getScanResults();
                 size = results.size();
-                Log.d("Lisa", "receive intent!!" + intent.toString());
                 try
                 {
 
-                    Log.d("Lisa", "-- List -- " + size);
+                    Log.d(TAG, "-- List -- " + size);
                     size = size - 1;
                     while (size >= 0)
                     {
@@ -98,7 +96,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
                         ScanResult scanItem = results.get(size);
                         item.put(ITEM_KEY, scanItem.SSID + " /// " + scanItem.BSSID + " /// " + scanItem.centerFreq0 +
                                 " /// " + scanItem.frequency + " /// " + scanItem.level);
-                        Log.d("Lisa", scanItem.SSID + " " + scanItem.level);
+                        Log.d(TAG, scanItem.SSID + " " + scanItem.level);
 
                         arraylist.add(item);
                         size--;
@@ -107,7 +105,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 }
                 catch (Exception e)
                 {
-                    Log.d("Lisa", "error!! " + e.toString());
+                    Log.d(TAG, "error!! " + e.toString());
                 }
             }
         }
@@ -116,6 +114,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
     public void onClick(View view)
     {
         wifi.startScan();
-        Toast.makeText(this, "Scanning...." + size, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Scanning....", Toast.LENGTH_SHORT).show();
     }
 }
