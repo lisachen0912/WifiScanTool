@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_bcdfc2c46d17307667c133f6d882404a46ffb5fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_16a65c32750555ccddbf515f21faa947606d6f64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_8f9e1444137514f1bced7338b1741455f2a9266c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_361229bd5082861d56c13f8bd402dae61207f7b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_e7a4b3bafe48d5900846a1f733bf0a415bf98c19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_f708ed3e2e7a32e23937b69878ac7a4c555304c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_b70392ad0b9c31bc5e942d63b4a2df3c5d93f79e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_c2469f06763879824e653cc54a38404d6c42418b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_c8339cd698899c01a0242bb505471fbf6a37ed18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_8ecc0977ca0dca38dcbd53a86c4aca6a53b5ab73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="69909fa739aa35bfb2a8153be405d5604599102c">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c7f5fff9a5ab093473da881a9cf33249c798089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_443a68d3593717f2910d750237417c4ede0019e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_f9ff9db43c5e6a83b5e71088042fa910982303aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_78448d20284b1f5339577c0a2713d637e570992d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4f57cf4f448e8df8f5ef005c6264197b8b53c3f4">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0e864be7bc4ca35d32f1211af1389f985186fb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/lisachen/AndroidStudioProjects/WifiScanTool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_853917ade577a40bb1c424ddce58dbb2524260cc/classes.dex" />
+    </item>
+
+</items>
